@@ -1,5 +1,5 @@
-import parthmittal from "./parth.svg";
-import profilePic from "./profile-pic.jpg";
+import nanajisanka from "./nanajisanka.png";
+import profilePic from "./profile-pic.jpeg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
@@ -35,6 +35,20 @@ import globalAi from "./global-ai.jpeg";
 import khoj from "./khoj.jpg";
 import kosh from "./kosh.png";
 import polkadot_dev_cli from "./polkadot-dev-cli.png";
+import uwaterloo_logo from "./uwaterloo_logo.jpeg";
+import mcap_logo from "./mcap_logo.jpeg";
+import cgi_logo from "./cgi_logo.jpeg";
+import cloud_server from "./cloud_server.png";
+import vit from "./vit.png"
+import bugsanderrors_logo from "./bugsanderrors_logo.jpeg"
+import gym from "./gym.png"
+import guitar from "./guitar.png"
+import skj from "./skj.png"
+import code from "./code.png"
+import medal from "./medal.png"
+import roboticarm from "./roboticarm.png"
+import learning from "./learning.png"
+import investing from "./investing.png"
 
 export {
   menu,
@@ -49,7 +63,7 @@ export {
   genesis,
   portfolio,
   cdc,
-  parthmittal,
+  nanajisanka,
   profilePic,
   chargeswap,
   placeicon,
@@ -73,5 +87,19 @@ export {
   khoj,
   kosh,
   polkadot_dev_cli,
-  placeholder
+  placeholder,
+  uwaterloo_logo,
+  mcap_logo,
+  cgi_logo,
+  cloud_server,
+  vit,
+  bugsanderrors_logo,
+  gym,
+  guitar,
+  skj,
+  code,
+  medal,
+  roboticarm,
+  learning,
+  investing,
 };

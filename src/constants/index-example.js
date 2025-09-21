@@ -85,7 +85,7 @@ import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
 export const resumeLink = "";
 export const callToAction = "https://www.linkedin.com/in/<your-linkedin-id>/";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const repoLink = "https://github.com/nanaji0133/personal-portfolio";
 
 export const navLinks = [
   {
@@ -110,7 +110,7 @@ export const navLinks = [
   },
   {
     id: "extraCurricular",
-    title: "Extra Curricular",
+    title: "Hobbies",
   },
   {
     id: "contactMe",
